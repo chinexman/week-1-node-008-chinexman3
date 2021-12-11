@@ -35,7 +35,7 @@ A sample format is shown
   "billedTotal": 123123,
   "cashBilledTotal": 1000,
   "nonCashBilledTotal": 1000,
-  "noOfDriversWithMoreThanOneVehicle": 2,
+  "noOfDriversWithMoreThanVechicle": 2,
   "mostTripsByDriver": {
     "name": "Driver name",
     "email": "Driver email",

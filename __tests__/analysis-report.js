@@ -10,7 +10,7 @@ describe('analysis spec', () => {
       billedTotal: expect.any(Number),
       cashBilledTotal: expect.any(Number),
       nonCashBilledTotal: expect.any(Number),
-      noOfDriversWithMoreThanOneVehicle: expect.any(Number),
+      noOfDriversWithMostTrips: expect.any(Number),
       mostTripsByDriver: {
         name: expect.any(String),
         email: expect.any(String),
@@ -35,7 +35,7 @@ describe('analysis spec', () => {
       billedTotal: 128224.69,
       cashBilledTotal: 69043.8,
       nonCashBilledTotal: 59180.89,
-      noOfDriversWithMoreThanOneVehicle: 3,
+      noOfDriversWithMostTrips: 3,
       mostTripsByDriver: {
         name: 'Bush Gibbs',
         email: 'bushgibbs@example.com',
